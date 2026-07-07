@@ -287,8 +287,7 @@ Designed with domain-driven decomposition, this suite uses an event bus for inte
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ayushgoyal001/ayushgoyal001/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
+<img src="https://raw.githubusercontent.com/ayushgoyal001/ayushgoyal001/output/github-contribution-grid-snake.svg" width="95%"/>
 </div>
 
 <br/>
