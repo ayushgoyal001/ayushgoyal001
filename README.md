@@ -259,17 +259,7 @@ Designed with domain-driven decomposition, this suite uses an event bus for inte
 
 ---
 
-## 🏅 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?ayushgoyal001&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
-<br/>
-
----
 
 ## 📈 Contribution Activity
 
@@ -281,13 +271,9 @@ Designed with domain-driven decomposition, this suite uses an event bus for inte
 
 <br/>
 
----
-
-## 🐍 Contribution Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ayushgoyal001/ayushgoyal001/output/github-contribution-grid-snake.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/ayushgoyal001/Ayush-Goyal/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
 
 <br/>
