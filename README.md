@@ -175,38 +175,6 @@ Designed with domain-driven decomposition, this suite uses an event bus for inte
 
 <br/>
 
----
-
-## 💼 Experience
-
-### **Software Engineer** — Company Name
-`Jan 2024 — Present`
-
-Designing and building backend systems and AI-driven features for a high-growth product team, focused on scalability, reliability, and rapid iteration.
-
-- Architected and shipped microservices handling millions of daily requests
-- Led integration of ML-based recommendation systems into core product flows
-- Optimized database queries and caching layers, reducing latency by 40%
-- Collaborated cross-functionally with product and design to ship user-facing features
-
-`Node.js` `Python` `AWS` `PostgreSQL` `Docker` `Kubernetes`
-
-<br/>
-
-### **Software Engineering Intern** — Company Name
-`May 2023 — Aug 2023`
-
-Contributed to the development of internal tooling and customer-facing APIs within an agile engineering team.
-
-- Built RESTful APIs consumed by multiple internal teams
-- Wrote unit and integration tests improving code coverage by 30%
-- Automated deployment workflows using CI/CD pipelines
-
-`React` `Express` `MongoDB` `GitHub Actions`
-
-<br/>
-
----
 
 ## 🏆 Achievements
 
