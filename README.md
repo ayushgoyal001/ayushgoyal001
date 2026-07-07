@@ -1,29 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6a3093&height=280&section=header&text=YOUR%20NAME&fontSize=60&fontColor=E0AAFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6a3093&height=280&section=header&text=AYUSH%20GOYAL&fontSize=60&fontColor=E0AAFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;AI+%2F+ML+Engineer;Full+Stack+Developer;Building+Scalable+Systems;Open+Source+Contributor&font=Fira+Code&center=true&width=650&height=50&duration=3000&pause=1000&color=B388FF&vCenter=true&size=24" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;AI+%2F+ML+Engineer;Building+Scalable+Systems;Open+Source+Contributor&font=Fira+Code&center=true&width=650&height=50&duration=3000&pause=1000&color=B388FF&vCenter=true&size=24" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6A3093?style=flat-square&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/CGPA-9.0%2F10-6A3093?style=flat-square&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/Location-India-6A3093?style=flat-square&labelColor=0f0c29&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.E-Electronics and Computer Engineering%20Science-6A3093?style=flat-square&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/CGPA-9.17%2F10-6A3093?style=flat-square&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/Location-Patiala,India-6A3093?style=flat-square&labelColor=0f0c29&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
-<a href="https://yourportfolio.dev">
-  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/>
-</a>
-<a href="https://linkedin.com/in/your-linkedin">
+
+<a href="https://www.linkedin.com/in/ayush-goyal-14421524a?">
   <img src="https://img.shields.io/badge/LinkedIn-6A3093?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:ayushgoyal0954@gmail.com">
   <img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/ayushgoyal001">
   <img src="https://img.shields.io/badge/GitHub-2E0854?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
 </a>
 
@@ -47,7 +45,6 @@ I'm a **Software Engineer** specializing in building **scalable, distributed, pr
 
 - 🧠 Deep interest in **Machine Learning, Deep Learning & LLM Engineering**
 - 🏗️ Experienced in designing **microservices, distributed systems & cloud-native architectures**
-- ⚙️ Full Stack Developer — comfortable across the entire **frontend-to-infrastructure** pipeline
 - 🚀 Passionate about **performance optimization**, **clean architecture**, and **developer experience**
 - 📈 Product-first thinker — I build for **impact**, not just implementation
 - 🌱 Constantly exploring the intersection of **AI Engineering** and **Software Systems Design**
@@ -58,9 +55,9 @@ I'm a **Software Engineer** specializing in building **scalable, distributed, pr
 
 <div align="center">
 
-| Software Engineering | AI / ML Engineering | Backend Engineering | Full Stack Roles | Research Collaboration |
-|:---:|:---:|:---:|:---:|:---:|
-| ✅ | ✅ | ✅ | ✅ | ✅ |
+| Software Engineering | AI / ML Engineering | Backend Engineering | Research Collaboration |
+|:---:|:---:|:---:|:---:|
+| ✅ | ✅ | ✅ | ✅ |
 
 </div>
 
@@ -74,13 +71,8 @@ I'm a **Software Engineer** specializing in building **scalable, distributed, pr
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,go&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=Python,C++,C,SQL&theme=dark"/>
 
-<br/><br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css&theme=dark"/>
 
 <br/><br/>
 
@@ -286,12 +278,12 @@ Contributed to the development of internal tooling and customer-facing APIs with
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B388FF&icon_color=B388FF&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=B388FF&fire=B388FF&currStreakLabel=B388FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ayushgoyal001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B388FF&icon_color=B388FF&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgoyal001&theme=tokyonight&hide_border=true&background=0d1117&ring=B388FF&fire=B388FF&currStreakLabel=B388FF" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B388FF&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgoyal001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B388FF&text_color=c9d1d9" width="49%"/>
 
 </div>
 
@@ -303,7 +295,7 @@ Contributed to the development of internal tooling and customer-facing APIs with
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?ayushgoyal001&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -315,7 +307,7 @@ Contributed to the development of internal tooling and customer-facing APIs with
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=B388FF&line=B388FF&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushgoyal001&theme=react-dark&hide_border=true&bg_color=0d1117&color=B388FF&line=B388FF&point=ffffff" width="95%"/>
 
 </div>
 
@@ -327,7 +319,7 @@ Contributed to the development of internal tooling and customer-facing APIs with
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/ayushgoyal001/ayushgoyal001/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 </div>
 
@@ -365,17 +357,14 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:ayushgoyal0954@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/ayush-goyal-14421524a?">
   <img src="https://img.shields.io/badge/LinkedIn-6A3093?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/ayushgoyal001">
   <img src="https://img.shields.io/badge/GitHub-2E0854?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
-</a>
-<a href="https://yourportfolio.dev">
-  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/>
 </a>
 
 </div>
